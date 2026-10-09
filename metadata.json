@@ -1,0 +1,6 @@
+{
+  "name": "AuraCare — Fertility Follow-Up & Multilingual Call Automation",
+  "description": "Automated fertility clinic patient follow-up tracker, T-2 day multilingual voice call & WhatsApp reminder engine, smart retry escalation, and real-time calendar synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
